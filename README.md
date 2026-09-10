@@ -6,7 +6,7 @@ Proje Hakkında
 
 Proje kapsamında proseslerin oluşturulması ve yönetilmesi üzerine temel işlemler gerçekleştirilmektedir.
 
-Uygulama Java programlama dili kullanılarak ve Eclipse IDE ortamında geliştirilmiştir.
+Uygulama Java programlama dili kullanılarak Eclipse IDE ortamında geliştirilmiştir.
 
 Kullanılan Teknolojiler
 Java
