@@ -1,1 +1,0 @@
-Programım,prosesler.txt dosyasını okuyarak Non-preemptive SJF algoritmasına göre prosesleri sıralayıp simülasyonu doğru şekilde gerçekleştiriyor.Tüm testlerde beklenen çıktılar elde ediliyor.Var olabilicek tek sorun dosya okuma sırasında olabilir eğer prosesler.txt formatı istendiği gibi olmazsa.
